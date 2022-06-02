@@ -1,0 +1,12 @@
+Explanation of why a particular framework and language was chosen.
+------------------------------------------------------------------
+1.Python is an open-source programming language \n,
+2.It has readable code
+3.Python, as there is a low entry barrier as far as the programming language is concerned. \n,
+4.It is suited for small-scale and complex projects, that's make Python great language for test automation.\n,
+5.It can handle any functional test, whether we’re talking about unit, integration, or end-to-end testing. \n
+Test cases are written simply as functions and can take parametrized inputs. \n,
+Plugins extend pytest capabilities and allow you to cover code, run several tests simultaneously, and integrate with other frameworks, like Django and Flask.
+
+
+
