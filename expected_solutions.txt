@@ -7,6 +7,4 @@ Explanation of why a particular framework and language was chosen.
 5.It can handle any functional test, whether we’re talking about unit, integration, or end-to-end testing. \n
 Test cases are written simply as functions and can take parametrized inputs. \n,
 Plugins extend pytest capabilities and allow you to cover code, run several tests simultaneously, and integrate with other frameworks, like Django and Flask.
-
-
-
+------------------------------------------------------------------
