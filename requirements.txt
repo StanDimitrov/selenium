@@ -1,4 +1,4 @@
-QA Homework Part 2
+QA Homework Requirements
 -----------------------
 1.Python 3.10.2
 2.PyCharm 2021.1.
