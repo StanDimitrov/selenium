@@ -1,0 +1,11 @@
+POST Method :
+I have decided to use POST method pet/{petId}/UploadImage -
+In my opinion, this method is an interesting way to check whether the information,
+entered by us is correctly accepted by the program and whether the attachment of a photo of our pet will be displayed as a file.
+In this way we can apply different types of selectors
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+GET Method :
+For the second method I chose use GET /pet/{petID}
+My idea here was to choose ID as a unique selector to help me easily and quickly find the desired result.
