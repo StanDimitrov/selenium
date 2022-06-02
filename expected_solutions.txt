@@ -1,6 +1,5 @@
 Explanation of why a particular framework and language was chosen.
 ------------------------------------------------------------------
-Python -
 1.Python is an open-source programming language \n,
 2.It has readable code
 3.Python, as there is a low entry barrier as far as the programming language is concerned. \n,
@@ -8,15 +7,6 @@ Python -
 5.It can handle any functional test, whether we’re talking about unit, integration, or end-to-end testing. \n
 Test cases are written simply as functions and can take parametrized inputs. \n,
 Plugins extend pytest capabilities and allow you to cover code, run several tests simultaneously, and integrate with other frameworks, like Django and Flask.
-------------------------------------------------------------------
-Selenium -
-Selenium is an open-source automation testing tool which is used for automating tests carried out on different web-browsers.
-1. Language and Framework Support
-2. Open Source Availability
-3. Multi-Browser Support
-4. Support Across Various Operating Systems
-5. Ease Of Implementation
-6. Reusability and Integrations
-7. Flexibility
-8. Parallel Test Execution and Faster Go-to-Market
--------------------------------------------------------------------
+
+
+
