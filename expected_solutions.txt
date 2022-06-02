@@ -19,6 +19,3 @@ Selenium is a free (open source) automated testing suite for web applications ac
 6. Reusability and Integrations
 7.Parallel Test Execution and Faster Go-to-Market
 --------------------------------------------------------------------
-
-
-
