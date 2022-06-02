@@ -9,3 +9,7 @@ In this way we can apply different types of selectors
 GET Method :
 For the second method I chose use GET /pet/{petID}
 My idea here was to choose ID as a unique selector to help me easily and quickly find the desired result.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Running the test cases :
+navigate to your project’s root directory using the command line (CMD) and run the following command > pytest

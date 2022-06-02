@@ -2,7 +2,7 @@ import requests
 
 def test_api_get():
     resp = requests.get("https://petstore.swagger.io/#")
-    assert (resp.status_code == 200), "Status code is 200. : " + str(resp.status_code)
+    assert (resp.status_code == 200), "Status code is not 200. : " + str(resp.status_code)
     for record in resp.json()['category']:
         if record['id'] == 1:
             assert record['name'] == "doggie",\
