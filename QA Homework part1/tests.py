@@ -20,5 +20,5 @@ def test_api_post():
         + str(resp.status_code)
     assert data['name'] == "Sparky", "Pet created with wrong name. \
         Expected : Sparky, found : " + str(data['name'])
-    assert data['bread'] == "chihuahua", "pet created with wrong bread. \
+    assert data['bread'] == "chihuahua", "Pet created with wrong bread. \
         Expected : chihuahua, found : " + str(data['name'])
