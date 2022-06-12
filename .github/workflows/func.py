@@ -8,3 +8,6 @@ def test_url():
     print(response.status_code)
     print(response.headers.get('Server'))
     assert response.status_code ==200
+    print('HitGub actions')
+    
+print("successfully completed action")
