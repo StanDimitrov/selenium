@@ -1,4 +1,7 @@
 
+import requests
+import pytest
+import json
 
 def test_url():
 
@@ -8,6 +11,3 @@ def test_url():
     print(response.headers.get('Server'))
     assert response.status_code ==200
 
-
-if __name__== "__main__":
-    main()
